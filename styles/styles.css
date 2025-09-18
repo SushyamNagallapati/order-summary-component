@@ -71,7 +71,7 @@ a {
 }
 
 #price {
-    font-size: 19px;
+    font-size: 17px;
     margin-top: 0.5rem;
     color: hsl(224, 23%, 55%);
     font-weight: 500;
@@ -79,7 +79,7 @@ a {
 
 #annual-plan {
     font-weight: 900;
-    font-size: 22px;
+    font-size: 20px;
     color: hsl(223, 47%, 23%);
 }
 
